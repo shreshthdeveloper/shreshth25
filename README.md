@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Souled Store](https://thesouledstore.com/)
 
-- 🌱 I’m currently learning **Django, Python**
+- 🌱 I’m currently learning **Django, Python, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shreshth25/](https://github.com/shreshth25/)
 
