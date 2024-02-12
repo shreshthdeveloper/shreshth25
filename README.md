@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shreshth Bansal</h1>
 <h3 align="center">A passionate Software developer.</h3>
 
+- Check out my website here [Shreshth Bansal](https://shreshth-bansal.netlify.app/)
+
 - 🔭 I’m currently working on [Souled Store](https://thesouledstore.com/)
 
-- 🌱 I’m currently learning **Django, Python, React**
+- 🌱 I’m currently learning **Django, Python, React, MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shreshth25/](https://github.com/shreshth25/)
 
