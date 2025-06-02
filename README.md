@@ -3,7 +3,7 @@
 
 - Check out my website here [Shreshth Bansal](https://shreshth-bansal.netlify.app/)
 
-- 🔭 I’m currently working on Riktam
+- 🔭 I’m currently working at Riktam Technologies
 
 - 🌱 I’m currently learning **Django, Python, React, MERN**
 
